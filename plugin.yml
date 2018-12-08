@@ -4,4 +4,4 @@ author: GiantQuartz
 website: twitter.com/GiantQuartz
 main: room17\SkyBlock\SkyBlock
 version: 2.2.3
-api: [3.0.0]
+api: [3.0.0, 3.3.0, 4.0.0]
